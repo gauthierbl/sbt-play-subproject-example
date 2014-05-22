@@ -1,0 +1,101 @@
+Folder PATH listing for volume Windows7_OS
+Volume serial number is C8B0-C5BE
+C:.
+ÃÄÄÄ.idea
+³   ÃÄÄÄcopyright
+³   ÃÄÄÄlibraries
+³   ÃÄÄÄmodules
+³   ÀÄÄÄscopes
+ÃÄÄÄcli
+³   ÀÄÄÄsrc
+³       ÀÄÄÄmain
+³           ÀÄÄÄscala
+ÃÄÄÄcommon
+³   ÀÄÄÄsrc
+³       ÀÄÄÄmain
+³           ÀÄÄÄscala
+ÃÄÄÄcore
+³   ÀÄÄÄsrc
+³       ÀÄÄÄmain
+³           ÀÄÄÄscala
+ÃÄÄÄproject
+³   ÃÄÄÄproject
+³   ³   ÀÄÄÄtarget
+³   ³       ÀÄÄÄconfig-classes
+³   ÀÄÄÄtarget
+³       ÃÄÄÄconfig-classes
+³       ÃÄÄÄresolution-cache
+³       ³   ÃÄÄÄdefault
+³       ³   ³   ÀÄÄÄtest-build
+³       ³   ³       ÀÄÄÄscala_2.10
+³       ³   ³           ÀÄÄÄsbt_0.13
+³       ³   ³               ÀÄÄÄ0.1-SNAPSHOT
+³       ³   ÀÄÄÄreports
+³       ÃÄÄÄscala-2.10
+³       ³   ÀÄÄÄsbt-0.13
+³       ÀÄÄÄstreams
+³           ÃÄÄÄ$global
+³           ³   ÃÄÄÄ$global
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄivyConfiguration
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄivySbt
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄprojectDescriptors
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÀÄÄÄupdate
+³           ³       ÀÄÄÄ$global
+³           ÃÄÄÄcompile
+³           ³   ÃÄÄÄ$global
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄcompile
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄcopyResources
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄdefinedSbtPlugins
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄdependencyClasspath
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄexportedProducts
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄexternalDependencyClasspath
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄincCompileSetup
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄinternalDependencyClasspath
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄmanagedClasspath
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÃÄÄÄunmanagedClasspath
+³           ³   ³   ÀÄÄÄ$global
+³           ³   ÀÄÄÄunmanagedJars
+³           ³       ÀÄÄÄ$global
+³           ÀÄÄÄruntime
+³               ÃÄÄÄdependencyClasspath
+³               ³   ÀÄÄÄ$global
+³               ÃÄÄÄexportedProducts
+³               ³   ÀÄÄÄ$global
+³               ÃÄÄÄexternalDependencyClasspath
+³               ³   ÀÄÄÄ$global
+³               ÃÄÄÄfullClasspath
+³               ³   ÀÄÄÄ$global
+³               ÃÄÄÄinternalDependencyClasspath
+³               ³   ÀÄÄÄ$global
+³               ÃÄÄÄmanagedClasspath
+³               ³   ÀÄÄÄ$global
+³               ÃÄÄÄunmanagedClasspath
+³               ³   ÀÄÄÄ$global
+³               ÀÄÄÄunmanagedJars
+³                   ÀÄÄÄ$global
+ÃÄÄÄtarget
+ÀÄÄÄweb
+    ÃÄÄÄapp
+    ³   ÃÄÄÄcontrollers
+    ³   ÀÄÄÄviews
+    ÃÄÄÄconf
+    ÃÄÄÄlogs
+    ÃÄÄÄpublic
+    ³   ÃÄÄÄimages
+    ³   ÃÄÄÄjavascripts
+    ³   ÀÄÄÄstylesheets
+    ÀÄÄÄtest
